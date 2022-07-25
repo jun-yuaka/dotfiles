@@ -18,6 +18,7 @@ Plug 'mattn/vim-lsp-settings'
 Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-goimports'
+Plug 'easymotion/vim-easymotion'
 call plug#end()
 
 let g:gitgutter_highlight_lines = 1
